@@ -7,8 +7,8 @@
 # puts "Hello Mona!"
 
 
-name = "ammar"
+variable1 = "ammar"
 
 
-puts "Hello #{name}"
+puts "Hello #{variable1}"
 
