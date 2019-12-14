@@ -6,5 +6,9 @@
 # puts "Hello Ammar!"
 # puts "Hello Mona!"
 
+
+name
+
+
 puts "Hello #{name}"
 
