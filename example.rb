@@ -7,7 +7,7 @@
 # puts "Hello Mona!"
 
 
-name = Ammar
+name = ammar
 
 
 puts "Hello #{name}"
