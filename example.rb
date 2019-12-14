@@ -9,6 +9,6 @@
 
 variable1 = "Mona"
 
-
+# This line of code will print a hello to the class.
 puts "Hello #{variable1}"
 
